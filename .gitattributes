@@ -1,0 +1,4 @@
+backend/** linguist-language=C#
+frontend/** linguist-language=TypeScript
+keycloak/** linguist-language=JSON
+*.sln linguist-language=C#
